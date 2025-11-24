@@ -1,0 +1,41 @@
+body {
+  background-color: #DFC2C2;         
+  color: #170F1E;                     
+  font-family: 'Roboto', Arial, sans-serif;  
+}
+
+h1 {
+  color: #000000;                    
+  font-weight: 700;
+}
+
+.mid-img {
+  width: 600px;
+}
+
+.sm-img {
+  width: 200px;
+}
+
+h2, {
+  color: #1E0F2A;
+
+i {
+  font-size: 28px;       
+  color: #170F1E;        
+  margin-right: 8px;     
+}
+
+img {
+  width: 500px;
+  height: auto;          
+  display: block;
+  margin-bottom: 20px;
+
+.mid-img {
+  width: 600px;
+}
+
+.small-img {
+  width: 250px;
+}
